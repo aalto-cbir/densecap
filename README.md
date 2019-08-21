@@ -1,4 +1,4 @@
-# densecap
+# greatt_densecap
 Implementation of ACM MM19 MULEA workshop paper, "Geometry-aware Relational Exemplar Attention for Dense Captioning"
 
 We are now preparing for another submission. The codes will be made available after.
